@@ -1,25 +1,52 @@
-# doctor-appointment-system
-Developed a full-stack Doctor Appointment Booking System with slot-wise booking, real-time availability checking, and API integration to prevent duplicate appointments. Implemented secure login, CRUD operations, QR code generation, and responsive UI for efficient appointment management and improved user experience.
-# Doctor Appointment System
+# Prescripto
 
-A full-stack doctor appointment booking system with slot-wise booking, QR code generation, and real-time availability checking.
+Prescripto is an online appointment booking website for doctors or hospitals. Users can book appointments with doctors based on their specialty and availability within a 7-day window.
 
 ## Features
-- Doctor slot booking
-- Real-time slot availability
-- QR code generation
-- User authentication
-- Responsive UI
-- API integration
+
+- **User Interface:**
+  - Filter doctors by specialty.
+  - Choose date and time slot for appointments.
+  - Book appointments with doctors.
+
+- **Admin Dashboard:**
+  - Manage bookings.
+  - Create new doctor profiles.
+
+- **Doctor Dashboard:**
+  - Manage profile.
+  - Check bookings.
+  - View earnings.
 
 ## Tech Stack
-- React JS
-- Node.js / PHP
-- MySQL
-- Bootstrap
 
-## Screenshots
-(Add images)
+- **Frontend:** React JS, Tailwind CSS
+- **Backend:** Node JS, Express, MongoDB
 
-## Live Demo
-(Add deployed link)
+## Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/imrohitsampannavar45/Prescripto.git
+cd Prescripto
+cd frontend
+
+```bash
+npm install
+
+```bash
+npm run dev
+
+```
+
+
+## Video Preview
+
+
+
+https://github.com/user-attachments/assets/f80cf322-a127-4990-a103-4dcbf5688341
+
+
+
+
