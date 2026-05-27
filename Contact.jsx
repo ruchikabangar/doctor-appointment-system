@@ -22,7 +22,7 @@ const Contact = () => {
     <p className='font-semibold text-lg text-gray-600'>OUR OFFICE</p>
     <p className='text-gray-500' >pune maharashtra
     </p>
-    <p className='text-gray-500'> Tel: +91 9876543210 <br /> Email: imrohitsampannavar@gmail.com</p>
+    <p className='text-gray-500'> Tel: +91 9876543210 <br /> Email: ruchika@gmail.com</p>
     <p className='font-semibold text-lg text-gray-600'>Careers at PRESCRIPTO</p>
     <p className='text-gray-500'>Learn More about our teams and job openings. </p>
 
