@@ -9,15 +9,6 @@ Prescripto is an online appointment booking website for doctors or hospitals. Us
   - Choose date and time slot for appointments.
   - Book appointments with doctors.
 
-- **Admin Dashboard:**
-  - Manage bookings.
-  - Create new doctor profiles.
-
-- **Doctor Dashboard:**
-  - Manage profile.
-  - Check bookings.
-  - View earnings.
-
 ## Tech Stack
 
 - **Frontend:** React JS, Tailwind CSS
@@ -28,7 +19,6 @@ Prescripto is an online appointment booking website for doctors or hospitals. Us
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/imrohitsampannavar45/Prescripto.git
 cd Prescripto
 cd frontend
 
@@ -41,11 +31,8 @@ npm run dev
 ```
 
 
-## Video Preview
 
 
-
-https://github.com/user-attachments/assets/f80cf322-a127-4990-a103-4dcbf5688341
 
 
 
